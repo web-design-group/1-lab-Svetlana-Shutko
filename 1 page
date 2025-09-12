@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <title>Задание 1 Шутко Светлана 3-МД-17</title>
+  <style>
+    body { font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif"; color: #222; font-size: 30px; }
+    footer { background-color: ;  padding: 50px; }
+	  
+	  
+	header { height: 200px; background-image: url("8.jpg"); background-size: cover; background-repeat: no-repeat; background-position: center;padding: 100px; font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif"; padding: 200px; font-size: 180px; display: flex; align-items: flex-start;    justify-content: center;flex-direction: column; padding-left: 90px; color: #fff; border-radius: 40px; } 
+	
+	h2 { font-size: 45px; } 
+
+
+	  
+    main {  padding: 16px; }
+    aside { background: #BDD2DF; padding: 12px; margin-top: 50px; border-radius: 40px; }
+    figure { margin: 0px 0px 50px 0px; }
+    figcaption { font-size: 20px; }
+	footer {text-align: center; }
+	nav {text-align: center;}
+  </style>
+</head>
+	
+	
+<body>
+	
+  <header>
+    <h1>ЛЕВ</h1>
+  </header>
+
+  <main>
+    <section>
+      <h2>Описание</h2>
+      <article>
+        <p>Лев  — один из видов крупных хищных млекопитающих, представитель семейства кошачьих. Среди всех представителей семейства львы являются наиболее высокими. Существует несколько разновидностей львов, кроме того известно немало гибридов, появляющихся от их скрещивания с другими видами крупных кошек. В Африке местное население, живущее в пределах ареала обитания льва, заслуженно считает его опасным хищником, поэтому не редко преследует и уничтожает. В результате популяция этих животных в последние столетия сильно сократилась.</p>
+      </article>
+		
+      <article>
+        <h2>Современные подвиды</h2>
+        <ol>
+          <li>Берберийский лев;</li>
+          <li>Азиатский лев;</li>
+          <li>Западноафриканский лев;</li>
+		  <li>Североконголезский лев;</li>
+		  <li>Восточноафриканский лев;</li>
+		  <li>Катангский лев;</li>
+		  <li>Трансваальский лев;</li>
+		  <li>Капский лев.</li>
+        </ol>
+      </article>
+	 <article>
+        <h2>Сомнительные подвиды</h2>
+        <ul>
+          <li>Шриланский лев;</li>
+          <li>Европейский лев;</li>
+          <li>Китайский лев.</li>
+        </ul>
+      </article>
+    </section>
+
+    <section>
+      <h2>Галерея изображений</h2>
+      <figure>
+        <img src="2.jpg" alt="Западноафриканский лев" width="700">
+        <figcaption>Западноафриканский лев.</figcaption>
+      </figure>
+      <figure>
+        <img src="3.jpg" alt="Азиатский лев" width="700" >
+        <figcaption>Азиатский лев.</figcaption>
+      </figure>
+		<figure>
+        <img src="4.jpg" alt="Капский лев" width="700" >
+        <figcaption>Капский лев.</figcaption>
+      </figure>
+		<h2>Самый популярный лев в кино</h2>
+      <article>
+        <p>Льва с логотипа компании Metro-Goldwyn-Mayer знают не только заядлые киноманы, но и люди, далекие от мира кино. Изначально логотип создавался для заставки киностудии Goldwyn Pictures, к которой вскоре присоединились две другие компании, и в 1924 году появилась Metro-Goldwyn-Mayer (MGM).</p>
+      </article>
+		<figure>
+        <a href="https://www.mentoday.ru/entertainment/movies/samyi-populyarnyi-lev-v-kino-pravda-li-nad-nim-izdevalis-na-syemochnoi-ploshchadke-a-on-syel-dressirovshchika/" target="_blank"><img src="6.jpg" alt="Ссылка" width="700">
+        </a>
+        <figcaption>Заставка Metro-Goldwyn-Mayer.</figcaption>
+      </figure>
+    </section>
+  </main>
+
+  <aside>
+    <h2>Дополнительная информация</h2>
+    <p>Хотите узнать о львах больше? </p>
+    <p> <a href="https://ru.wikipedia.org/wiki/Лев" target="_blank">Нажимайте сюда</a></p>
+  </aside>
+
+  <footer>
+	  <nav>
+      <a href="Untitled-3.html">Перейти на вторую страницу</a>
+    </nav>
+    <p>Design by Шутко Светлана &copy; 2025</p>
+  </footer>
+</body>
+</html>
