@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <title>Задание 1 Шутко Светлана 3-МД-17</title>
+  <style>
+    body { font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif"; color: #000000; font-size: 35px; }
+    footer { padding: 50px; }
+	  
+	  
+	header { height: 500px; background-image: url("12.jpg"); background-size: cover; background-repeat: no-repeat; background-position: center;padding: 100px; font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif"; padding: 200px; font-size: 100px; display: flex; align-items: flex-start;    justify-content: center; } 
+	
+	h2 { font-size: 50px; } 
+
+
+    main { padding: 16px; }
+    aside { background: #E75E5E; padding: 12px; margin-top: 16px; border-radius: 40px; }
+    figure { margin: 0px 0px 50px 0px; }
+    figcaption { font-size: 20px; }
+	footer {text-align: center; }
+	nav {text-align: center;}
+	  
+    #one { color: #ce2956;font-style: italic;}
+	#two{ color: #182883;font-style: italic;letter-spacing: 10px;}
+	#three { color: #ce2956;font-style: italic;}
+
+
+  </style>
+</head>
+	
+	
+<body>
+	
+  <header>
+    <h1>ТОЖЕ ЛЕВ</h1>
+  </header>
+
+  <main>
+    <section>
+      <h2 id="one" >ОПИСАНИЕ</h2>
+      <article>
+        <p>Самый редкий подвид львов - "мемный". </p>
+      </article>
+      <article>
+        <h2 id="two">ИХ ПРЕИМУЩЕСТВА</h2>
+		<ol>
+          <li>Угарные;</li>
+          <li>ПОЛНОСТЬЮ БЕЗОПАСНЫЕ.</li>
+        </ol>
+      </article>
+		<article>
+        <h2 id="three">НЕДОСТАТКИ</h2>
+        <ul>
+          <li>А МИНУСЫ БУДУТ?</li>
+
+        </ul>
+      </article>
+    </section>
+
+    <section>
+      <figure>
+        <img src="13.png" alt="Почти.." width="1400">
+        <figcaption>Почти..</figcaption>
+      </figure>
+      <figure>
+        <img src="15.jpg" alt="5 часов утра, но автор держится." width="700" >
+        <figcaption>5 часов утра, но автор держится.</figcaption>
+      </figure>
+	  <figure>
+        <img src="14.png" alt="14" width="700" >
+      </figure>
+		  <aside>
+    <h2>Больше львов:</h2>
+    <p> <a href="https://yandex.ru" target="_blank">Сюда</a></p>
+  </aside>
+		<h2>Важная информация</h2>
+      <article>
+        <p>Простите автора за это, забудьте все, кто видел это...</p>
+      </article>
+		<figure>
+        <a href="https://psyhology.by/sovety-gipnologa/zabyt-plohie-vospominaniya" target="_blank">
+          <img src="16.jpg" alt="Ссылка" width="700">
+        </a>
+        <figcaption>Стереть память.</figcaption>
+      </figure>
+    </section>
+  </main>
+
+  <footer>
+	  <nav>
+      <a href="Untitled-2.html">Вернуться на первую адекватную страницу</a>
+    </nav>
+    <p>Design by Шутко Светлана &copy; 2025</p>
+  </footer>
+</body>
+</html>
