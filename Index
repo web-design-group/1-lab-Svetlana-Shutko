@@ -5,21 +5,34 @@
   <title>Задание 1 Шутко Светлана 3-МД-17</title>
   <style>
     body { font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif"; color: #222; font-size: 30px; }
-    footer { background-color: ;  padding: 50px; }
+    footer {  padding: 50px; margin-top: 2000px }
 	  
 	  
-	header { height: 200px; background-image: url("8.jpg"); background-size: cover; background-repeat: no-repeat; background-position: center;padding: 100px; font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif"; padding: 200px; font-size: 180px; display: flex; align-items: flex-start;    justify-content: center;flex-direction: column; padding-left: 90px; color: #fff; border-radius: 40px; } 
+	header { height: 200px; background-image: url("8.jpg"); background-size: cover; background-repeat: no-repeat; background-position: center; font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif"; padding: 200px; font-size: 180px; display: flex; align-items: flex-start;   justify-content: center;flex-direction: column; padding-left: 90px; color: #fff; border-radius: 40px;} 
 	
 	h2 { font-size: 45px; } 
 
 
 	  
-    main {  padding: 16px; }
-    aside { background: #BDD2DF; padding: 12px; margin-top: 50px; border-radius: 40px; }
+    main {  padding: 16px; margin-top: 120px }
+aside {
+  background: #BDD2DF;
+  padding: 12px;
+  margin-top: -2000px; 
+  border-radius: 40px;
+  width: 800px;
+  height: auto; 
+  margin-left: auto;
+  margin-right: 0px; 
+  box-sizing: border-box;
+}
+
+
     figure { margin: 0px 0px 50px 0px; }
     figcaption { font-size: 20px; }
 	footer {text-align: center; }
-	nav {text-align: center;}
+	nav {font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif"; color: #222; font-size: 30px;}
+	  nav a {margin-left: -65px; position: relative; top: -60px;}
   </style>
 </head>
 	
@@ -28,6 +41,9 @@
 	
   <header>
     <h1>ЛЕВ</h1>
+	<nav>
+      <a href="Untitled-3.html">Перейти на вторую страницу</a>
+    </nav>
   </header>
 
   <main>
@@ -59,20 +75,18 @@
         </ul>
       </article>
     </section>
-
+	  
+	  
     <section>
       <h2>Галерея изображений</h2>
       <figure>
-        <img src="2.jpg" alt="Западноафриканский лев" width="700">
-        <figcaption>Западноафриканский лев.</figcaption>
+        <img src="2.jpg" alt="Западноафриканский лев" width="700"><figcaption>Западноафриканский лев.</figcaption>
       </figure>
       <figure>
-        <img src="3.jpg" alt="Азиатский лев" width="700" >
-        <figcaption>Азиатский лев.</figcaption>
+        <img src="3.jpg" alt="Азиатский лев" width="700" ><figcaption>Азиатский лев.</figcaption>
       </figure>
 		<figure>
-        <img src="4.jpg" alt="Капский лев" width="700" >
-        <figcaption>Капский лев.</figcaption>
+        <img src="4.jpg" alt="Капский лев" width="700" ><figcaption>Капский лев.</figcaption>
       </figure>
 		<h2>Самый популярный лев в кино</h2>
       <article>
@@ -84,19 +98,18 @@
         <figcaption>Заставка Metro-Goldwyn-Mayer.</figcaption>
       </figure>
     </section>
-  </main>
-
-  <aside>
+	  
+	   <aside>
     <h2>Дополнительная информация</h2>
     <p>Хотите узнать о львах больше? </p>
     <p> <a href="https://ru.wikipedia.org/wiki/Лев" target="_blank">Нажимайте сюда</a></p>
   </aside>
+  </main>
 
+	
   <footer>
-	  <nav>
-      <a href="Untitled-3.html">Перейти на вторую страницу</a>
-    </nav>
     <p>Design by Шутко Светлана &copy; 2025</p>
   </footer>
 </body>
 </html>
+
